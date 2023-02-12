@@ -1,0 +1,9 @@
+
+#   Build Folder
+
+Build/
+
+
+#   VSCode Settings
+
+.vscode/

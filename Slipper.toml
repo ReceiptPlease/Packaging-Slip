@@ -1,0 +1,12 @@
+
+[Input]
+Template = 'Source/Template.liquid'
+Styles = 'Source/Style'
+
+
+[Render]
+Template = 'Build/Template.html'
+
+
+[Output]
+Template = 'Build/Template.liquid'
