@@ -1,5 +1,6 @@
 {
     "tasks" : {
+        "preview" : "file_server Build" ,
         "build" : "slipper --config=Slipper.toml"
     }
 }
